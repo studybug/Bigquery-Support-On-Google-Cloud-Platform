@@ -17,8 +17,8 @@ Code Summary
 
 
 Acceptance Criteria
-[ ] submit Harmony blockchain data to Google big query public data set
-[ ] provide an automation solution/script from reading harmony blockchain data to updating the big query dataset
-[ ] complete documentation on the setup of the submission and update pipeline
+- [ ] submit Harmony blockchain data to Google big query public data set
+- [ ] provide an automation solution/script from reading harmony blockchain data to updating the big query dataset
+- [ ] complete documentation on the setup of the submission and update pipeline
 Reward
 US$2,000 equivalent amount of Harmony ONE token.
